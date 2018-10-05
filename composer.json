@@ -1,0 +1,13 @@
+{
+    "name": "devd9925/yii2-mwsapi",
+    "description": "Amazon mws api",
+    "type": "yii2-extention",
+    "authors": [
+        {
+            "name": "softler",
+            "email": "task.softler@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
